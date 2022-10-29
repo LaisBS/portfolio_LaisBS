@@ -23,4 +23,8 @@ export const RepoImgs = [
     id: 553023270,
     img: "https://res.cloudinary.com/dqqw3fvn2/image/upload/v1666026519/Diagrama_sem_nome.drawio_pn6yoj.png",
   },
+  {
+    id: 492970913,
+    img: "https://res.cloudinary.com/dqqw3fvn2/image/upload/v1667019335/Captura_de_tela_2022-10-29_015447_gajhlt.jpg",
+  },
 ];
