@@ -31,12 +31,10 @@ export const Home = (): JSX.Element => {
         <Container>
           <HeaderContent>
             <h1>
-              Desenvolvimento web<br></br>full-stack{" "}
+              Desenvolvedora Full Stack<br></br>
             </h1>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
-              de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+             Há mais de 3 anos construo aplicações web e APIs em produção com React, Next.js, TypeScript, Node.js e NestJS. Hoje atuo na Solomon Digital Business, desenvolvendo de ponta a ponta, do Figma ao deploy.
             </Text>
 
             <HeaderButtonsArea>
